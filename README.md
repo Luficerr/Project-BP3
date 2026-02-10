@@ -138,7 +138,7 @@ Aplikasi ini **tidak menggunakan server-side database**.
 1. Clone repository:
 
 ```bash
-git clone https://github.com/Luficerr/funsplash.git
+git clone https://github.com/Luficerr/Project-BP3.git
 ```
 
 2. Buka project di Android Studio
