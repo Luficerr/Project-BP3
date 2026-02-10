@@ -179,6 +179,11 @@ If you like this project, please give it a ⭐
 
 ---
 
+## API Used
+- [x] [Unsplash](https://unsplash.com/developers)
+
+---
+
 ## License
 
 Copyright © 2025-2026
